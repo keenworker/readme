@@ -5,7 +5,7 @@ These projects showcase React’s versatility in building visually appealing and
 ### Travelx React Application
 
 - Directory: [travelx-react-app](https://dassujan.github.io/travelx-react-app) ([source code](https://github.com/dassujan/travelx-react-app))
-- Description: This project is a responsive TravelX app built with React. It showcases stunning visuals and user-friendly features through components like Navbar, Header, Services, Pricing, About, PopularPlaces, Contact, & Footer.
+- Description: This project is a React-based responsive TravelX app. It showcases stunning visuals and user-friendly features through components like Navbar, Header, Services, Pricing, About, PopularPlaces, Contact, & Footer.
 
 ### Dictionary React Application
 
