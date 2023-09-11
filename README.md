@@ -15,7 +15,7 @@ These projects demonstrate React versatility in building visually appealing and 
 ### Calculator React Application
 
 - Directory: [calculator-react-app](https://dassujan.github.io/calculator-react-app ) ([source code](https://github.com/dassujan/calculator-react-app))
-- Description: Calculator React App is a web application built using React, a popular JS library for building user interfaces. This calculator app provides a user-friendly interface for performing basic mathematical calculations right in the browser.
+- Description: Calculator React App is a web application built using React, a popular JS library for building user interfaces. This application provides a user-friendly interface for performing basic mathematical calculations right in the browser.
 
 ### TextUtils React Application
 
