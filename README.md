@@ -1,26 +1,23 @@
-# Vanila JS Projects
+# React JS Projects
 
-### Tic Tac Toe Game
+These projects showcase React’s versatility in building visually appealing and interactive applications.
 
-- Directory: [tic-tac-toe](https://dassujan.github.io/Tic-Tac-Toe-Game)
-- Description: Tic-Tac-Toe Game is a classic interactive web application built using HTML, CSS, and JavaScript. This game allows players to engage in the popular tic-tac-toe game, also known as noughts and crosses, right in their web browsers.
+### Travelx React Application
 
-### iOS-Inspired Music Player
+- Directory: [travelx-react-app](https://dassujan.github.io/travelx-react-app) ([source code](https://github.com/dassujan/travelx-react-app))
+- Description: This project is a responsive TravelX app built with React. It showcases stunning visuals and user-friendly features through components like Navbar, Header, Services, Pricing, About, PopularPlaces, Contact, & Footer.
 
-- Directory: [music-player](https://dassujan.github.io/Music-Player-App)
-- Description: a simple responsive iOS music player web-based application using HTML5, CSS3 & Vanilla JavaScript. Here, I have also added Play, Pause, Next and Previous Buttons.
+### Dictionary React Application
 
-### Basic To-Do Application
+- Directory: [dictionary-react-app](https://dassujan.github.io/dictionary-react-app) ([source code](https://github.com/dassujan/dictionary-react-app))
+- Description: Dictionary React App is a web application built with React & MUI framework. Look up definitions, expand your vocabulary and enhance your language skills effortlessly.
+  
+### Calculator React Application
 
-- Directory: [to-do-app](https://dassujan.github.io/To-Do-List-App)
-- Description: Developed a basic to-do application that enables to add new items to list. Here, user can mark a task "complete" upon its successful completion. Also, user can delete tasks from the list.
+- Directory: [calculator-react-app](https://dassujan.github.io/calculator-react-app ) ([source code](https://github.com/dassujan/calculator-react-app))
+- Description: Calculator React App is a web application built using React, a popular JS library for building user interfaces. This calculator app provides a user-friendly interface for performing basic mathematical calculations right in the browser.
 
-### Bucks Graph Generator
+### TextUtils React Application
 
-- Directory: [bucks-graph-generator](https://dassujan.github.io/Bucks-Graph-Generator)
-- Description: Creating bucks graph generator using GitHub Copilot AI, which is an amazing tool ever!
-
-### Google Maps Clone
-
-- Directory: [google-maps-clone](https://dassujan.github.io/Google-Maps-Clone)
-- Description: This project utilizes Mapbox API to create custom maps and geolocation features. Here, users can explore locations and get directions for their desired travel mode.
+- Directory: [textutils-react-app](https://dassujan.github.io/textutils-react-app) ([source code](https://github.com/dassujan/textutils-react-app))
+- Description: TextUtils is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as converting text to Uppercase & Lowercase.
