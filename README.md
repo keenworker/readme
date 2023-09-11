@@ -1,6 +1,6 @@
 # React JS Projects
 
-These projects showcase React’s versatility in building visually appealing and interactive applications.
+These projects demonstrate React versatility in building visually appealing and interactive applications.
 
 ### Travelx React Application
 
