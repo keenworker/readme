@@ -1,5 +1,3 @@
-#  Right Shift Operator (`>>`) and Left Shift Operator (`<<`)
-
 ## Right Shift Operator (`>>`) in C++
 
 ### Overview:
@@ -46,11 +44,6 @@ int result = y << 3;  // Shifting 3 positions to the left
 // Binary representation: 0001 0000
 ```
 
-### Important Notes:
-
-- When shifting bits to the right, the leftmost bits are filled with the sign bit (0 for positive numbers, 1 for negative numbers in two's complement representation).
-- When shifting bits to the left, the rightmost bits are filled with zeros.
-
 ---
 
 ## Applications:
@@ -69,4 +62,7 @@ int result = y << 3;  // Shifting 3 positions to the left
 
 ---
 
-These operators are very useful in low-level bit manipulation, as well as in some performance optimizations. However, care should be taken when using them to ensure that the intended behavior is achieved.
+### Important Notes:
+
+- When shifting bits to the right, the leftmost bits are filled with the sign bit (0 for positive numbers, 1 for negative numbers in two's complement representation).
+- When shifting bits to the left, the rightmost bits are filled with zeros.
