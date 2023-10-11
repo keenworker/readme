@@ -1,5 +1,4 @@
 #  Right Shift Operator (`>>`) and Left Shift Operator (`<<`)
----
 
 ## Right Shift Operator (`>>`) in C++
 
