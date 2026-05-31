@@ -15,22 +15,6 @@
 | Fiery | Looking bright or burning like fire | The sunset painted the sky in fiery shades of orange and red. |
 | Spark | A tiny flash of light or fire | The mechanic saw a spark fly out from the broken wire. |
 
-## Complete Summary of "The Flint — by Christina Georgina Rossetti"
-
-**Stanza 1**
-
-*An emerald is as green as grass, / A ruby red as blood; / A sapphire shines as blue as heaven; / A flint lies in the mud.*
-
-In the first stanza, the poet describes three precious and beautiful gemstones using simple comparisons from nature. An emerald is compared to the bright green colour of grass. A ruby is compared to the deep red colour of blood. A sapphire is compared to the clear blue colour of the sky or heaven. These three stones are beautiful, colourful, and admired by everyone. But then the poet suddenly introduces the flint — a plain, hard, grey stone that simply lies in the mud. Unlike the precious gems, the flint has no attractive colour or shine. It is ignored and looked down upon by people. The poet uses this contrast to show that not everything valuable looks beautiful on the outside.
-
-**Stanza 2**
-
-*A diamond is a brilliant stone, / To catch the world's desire; / An opal holds a fiery spark; / But a flint holds fire.*
-
-In the second and final stanza, the poet introduces two more precious stones. A diamond is called a brilliant stone — it sparkles, shines, and attracts everyone. The whole world desires and longs to have a diamond. An opal is described as holding a fiery spark inside it, meaning it glows and reflects different colours beautifully. Both these stones are prized and admired for their outer appearance. But then the poet brings the flint back and says — *a flint holds fire.* This is the most important line of the poem. While other stones are beautiful to look at, the flint has real, practical power inside it. When struck against another stone, a flint can produce actual fire — something that gives warmth, light, and life. The poet uses this powerful ending to remind us that true value lies not in outer beauty but in inner strength and usefulness.
-
-**Central Message of the Poem:** The poem teaches us a very important lesson — we should never judge anything or anyone by their appearance alone. The precious gemstones like emerald, ruby, sapphire, diamond, and opal are beautiful and admired, but the simple and muddy flint has a greater hidden power — the power to create fire. Just like people in real life, those who appear plain or ordinary on the outside may have extraordinary qualities, strength, and abilities within them. True value comes from what is inside, not from how something looks.
-
 ## Comprehension Important Questions and Answers
 
 ### Part A
@@ -196,22 +180,6 @@ In the second and final stanza, the poet introduces two more precious stones. A 
 | Transparent | Something that can be seen through clearly | She covered the gift box with a transparent sheet of plastic. |
 | Bated breath | Waiting nervously and with great excitement | The audience watched with bated breath as the magician performed the final trick. |
 | Eaves | The lower edges of a roof that stick out over the walls | A family of sparrows had built their nest under the eaves of our house. |
-
-## Complete Summary of "Arachne — The Weaver"
-
-Arachne was a young and talented girl who lived in ancient Greece. She was exceptionally skilled at weaving, and the cloth she made was as soft as silk. Her colourful tapestries were truly works of art, and people from everywhere came to admire them. However, as her fame grew, so did her pride. Arachne became very boastful and began to claim that her weaving was better than that of Athena — the great goddess of wisdom and crafts — who had actually invented weaving. She refused to give Athena any credit and insisted that her skill came entirely from her own hard work.
-
-When Athena heard these proud and insulting words, she was angry but decided to test Arachne herself. She disguised herself as an old woman and knocked on Arachne's door. Arachne welcomed the stranger and offered her a stool to rest. The old woman gently advised Arachne to be grateful for her gift and to respect Goddess Athena. But Arachne was not willing to listen. She proudly said that her skill had nothing to do with Athena and even dared the goddess to come and compete with her.
-
-At that moment, the old woman revealed her true identity. She doubled in size, her wrinkles disappeared, and her face became fair yet stern. It was Athena herself. Arachne, though surprised, did not show any fear and looked at the goddess without blinking. Athena then challenged Arachne to a weaving contest. The terms were clear — if Arachne's work was better, Athena would weave no more; but if Athena won, Arachne would never touch a loom, spindle, or shuttle again. Arachne bravely accepted the challenge.
-
-Both of them began to weave in front of a large audience. The only sound in the crowd was the whirring of the shuttles, as everyone watched with bated breath. They worked all day without stopping. When evening came, both put down their shuttles and stepped back to show their finished tapestries.
-
-Arachne had woven a cloth from the finest silk, but even in her designs she showed her arrogance — she depicted the gods as foolish and angry. Athena, on the other hand, wove using the beauty of nature — the sky, the sea, the fields, and the clouds — and her tapestry showed the glory and greatness of the gods. All who watched agreed that while Arachne's work was skilful, Athena's tapestry seemed to come alive. Athena was declared the winner.
-
-Arachne was heartbroken. She hid her face and wept bitterly, crying out that she could not live without her loom and spindle. Athena, though still angry, felt pity for her. She told Arachne that she had brought this upon herself, but since Arachne could never be happy without spinning and weaving, Athena decided to give her a new form so she could continue her work in a different way.
-
-Immediately, Arachne's body shrank to the size of a tiny black dot, her fingers turned into legs, and she scuttled into the shadows. She had been transformed into the world's very first spider. From that day on, she continued to spin and weave — not with a loom or spindle, but with threads from her own body. Her delicate, transparent web, hanging with drops of dew in the morning light, is said to be her masterpiece. The story explains how spiders and their webs came to exist, and it teaches us that pride and arrogance can lead to our downfall, and that we must always be humble about our talents and grateful for the gifts we have received.
 
 ## Comprehension Important Questions and Answers
 
